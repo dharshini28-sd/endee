@@ -28,6 +28,8 @@ This project is an AI-powered document assistant that allows users to query docu
 3. Open:
    http://localhost:8501
 
+Note: Run the project locally using Streamlit to view the UI.
+
 ## 🧪 Example
 
 Ask:
